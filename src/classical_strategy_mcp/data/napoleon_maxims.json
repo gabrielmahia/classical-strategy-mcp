@@ -1,0 +1,127 @@
+{
+  "commander": "Napoleon Bonaparte",
+  "dates": "1769-1821",
+  "source": "Maximes de Guerre (1831) — Public Domain",
+  "maxims": [
+    {
+      "number": 1,
+      "text": "War is a series of catastrophes which result in a victory.",
+      "category": "strategy",
+      "modern_application": "Plans fail on contact — victory comes through adaptation"
+    },
+    {
+      "number": 2,
+      "text": "Geography is the mother of strategy.",
+      "category": "strategy",
+      "modern_application": "Know your terrain — market landscape, regulatory environment, infrastructure"
+    },
+    {
+      "number": 3,
+      "text": "An army marches on its stomach.",
+      "category": "logistics",
+      "modern_application": "Operations are upstream of strategy — cash flow is logistics"
+    },
+    {
+      "number": 4,
+      "text": "In war, three-quarters turns on personal character and relations; the balance of manpower and materials counts only for the remaining quarter.",
+      "category": "leadership",
+      "modern_application": "Culture and leadership quality dwarf resource advantages"
+    },
+    {
+      "number": 5,
+      "text": "Never interrupt your enemy when he is making a mistake.",
+      "category": "strategy",
+      "modern_application": "Competitor errors are gifts — patience is competitive advantage"
+    },
+    {
+      "number": 6,
+      "text": "The whole art of war consists in a well-reasoned and extremely circumspect defensive, followed by rapid and audacious attack.",
+      "category": "tactics",
+      "modern_application": "Preserve capital through defense; deploy aggressively when opportunity opens"
+    },
+    {
+      "number": 7,
+      "text": "The strength of an army, like the power in mechanics, is estimated by multiplying the mass by the rapidity; a rapid march augments the morale of an army, and increases its means of victory.",
+      "category": "tactics",
+      "modern_application": "Speed multiplies force — faster decision cycles beat larger organizations"
+    },
+    {
+      "number": 8,
+      "text": "The same combat formation is not good for all occasions.",
+      "category": "tactics",
+      "modern_application": "Context-dependent strategy — no universal playbook"
+    },
+    {
+      "number": 9,
+      "text": "When you resolve to fight a battle, collect your whole force. Dispense with nothing.",
+      "category": "strategy",
+      "modern_application": "At the moment of decision, commit fully — half-measures fail"
+    },
+    {
+      "number": 10,
+      "text": "A general should say to himself many times a day: If the hostile army were to make its appearance in front, on my right, or on my left, what should I do?",
+      "category": "intelligence",
+      "modern_application": "Pre-mortem thinking — war-game against multiple threat scenarios"
+    },
+    {
+      "number": 11,
+      "text": "A general who retains fresh troops for the day after a battle will almost always be beaten.",
+      "category": "tactics",
+      "modern_application": "Exploit success immediately — trailing the moment wastes the moment"
+    },
+    {
+      "number": 12,
+      "text": "It is exceptional and difficult to find all the qualities of a great general combined in one man.",
+      "category": "leadership",
+      "modern_application": "Command is a combination function — no single trait defines leadership"
+    },
+    {
+      "number": 13,
+      "text": "War is composed of nothing but accidents, and, although holding to general principles, a general should never lose sight of everything to enable him to profit from these accidents.",
+      "category": "strategy",
+      "modern_application": "Strategy is a framework for handling surprises — not a script"
+    },
+    {
+      "number": 14,
+      "text": "The duty of an officer is to obey orders, to be silent, and to correct the faults of his soldiers when they do not perform their duties well.",
+      "category": "leadership",
+      "modern_application": "Discipline in execution is the base of organizational trust"
+    },
+    {
+      "number": 15,
+      "text": "Make war offensively; it is the sole means to become a great captain and to penetrate the secrets of the art.",
+      "category": "strategy",
+      "modern_application": "Initiative reveals information — defense is epistemically inferior"
+    },
+    {
+      "number": 16,
+      "text": "In mountain warfare, the advantage belongs to the defender; in flat or open country, the advantage belongs to the attacker.",
+      "category": "tactics",
+      "modern_application": "Terrain shapes capability — platform vs. open market dynamics"
+    },
+    {
+      "number": 17,
+      "text": "The greatest general is he who makes the fewest mistakes.",
+      "category": "strategy",
+      "modern_application": "Excellence is error minimization at the strategic level"
+    },
+    {
+      "number": 18,
+      "text": "The first qualification in a general-in-chief is a cool head that receives a just impression of things.",
+      "category": "leadership",
+      "modern_application": "Signal vs. noise discrimination under pressure is leadership"
+    },
+    {
+      "number": 19,
+      "text": "No force should be detached on the eve of a battle, because affairs change every instant.",
+      "category": "tactics",
+      "modern_application": "Concentrate before commitment — dispersion before the decisive moment is fatal"
+    },
+    {
+      "number": 20,
+      "text": "Speed is the essence of war. Take advantage of the enemy's unpreparedness; travel by unexpected routes and strike him where he has taken no precautions.",
+      "category": "tactics",
+      "modern_application": "Speed of execution beats planning quality — arrive before expected"
+    }
+  ]
+}
