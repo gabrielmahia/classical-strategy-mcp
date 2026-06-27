@@ -1,0 +1,146 @@
+{
+  "work": "The Art of War",
+  "author": "Sun Tzu (Sunzi)",
+  "date": "~500 BC",
+  "source": "Public domain translation (Lionel Giles, 1910)",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Laying Plans / Strategic Assessments",
+      "key_principle": "War is governed by five constant factors: moral law, heaven, earth, the commander, method and discipline",
+      "verses": [
+        {
+          "number": 1,
+          "text": "The art of war is of vital importance to the State."
+        },
+        {
+          "number": 2,
+          "text": "It is a matter of life and death, a road either to safety or to ruin."
+        },
+        {
+          "number": 3,
+          "text": "All warfare is based on deception."
+        },
+        {
+          "number": 4,
+          "text": "Hence, when able to attack, we must seem unable; when using our forces, we must seem inactive."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Waging War / Doing Battle",
+      "key_principle": "Speed and economy of force — prolonged war weakens the state",
+      "verses": [
+        {
+          "number": 1,
+          "text": "In the operations of war, where there are in the field a thousand swift chariots, as many heavy chariots, and a hundred thousand mail-clad soldiers..."
+        },
+        {
+          "number": 6,
+          "text": "In all history, there is no instance of a country having benefited from prolonged warfare."
+        },
+        {
+          "number": 19,
+          "text": "Hence a wise general makes a point of foraging on the enemy."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Strategic Attack / Attack by Stratagem",
+      "key_principle": "Supreme excellence is breaking resistance without fighting",
+      "verses": [
+        {
+          "number": 1,
+          "text": "In the practical art of war, the best thing of all is to take the enemy's country whole and intact; to shatter and destroy it is not so good."
+        },
+        {
+          "number": 2,
+          "text": "Supreme excellence consists in breaking the enemy's resistance without fighting."
+        },
+        {
+          "number": 4,
+          "text": "The skillful leader subdues the enemy's troops without any fighting."
+        },
+        {
+          "number": 13,
+          "text": "If you know the enemy and know yourself, you need not fear the result of a hundred battles."
+        },
+        {
+          "number": 14,
+          "text": "If you know yourself but not the enemy, for every victory gained you will also suffer a defeat."
+        },
+        {
+          "number": 15,
+          "text": "If you know neither the enemy nor yourself, you will succumb in every battle."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Weak Points and Strong / Weakness and Strength",
+      "key_principle": "Formlessness — be where the enemy is not",
+      "verses": [
+        {
+          "number": 1,
+          "text": "Whoever is first in the field and awaits the coming of the enemy, will be fresh for the fight; whoever is second in the field and has to hasten to battle will arrive exhausted."
+        },
+        {
+          "number": 19,
+          "text": "O divine art of subtlety and secrecy! Through you we learn to be invisible, through you inaudible; and hence we can hold the enemy's fate in our hands."
+        },
+        {
+          "number": 27,
+          "text": "Do not repeat the tactics which have gained you one victory, but let your methods be regulated by the infinite variety of circumstances."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Maneuver / Armed Struggle",
+      "key_principle": "Maneuver for advantage before battle — never fight from disadvantage",
+      "verses": [
+        {
+          "number": 1,
+          "text": "In war, the general receives his commands from the sovereign."
+        },
+        {
+          "number": 13,
+          "text": "Let your rapidity be that of the wind, your compactness that of the forest."
+        },
+        {
+          "number": 14,
+          "text": "In raiding and plundering be like fire, in immovability like a mountain."
+        },
+        {
+          "number": 15,
+          "text": "Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "The Use of Spies / Intelligence",
+      "key_principle": "Knowledge of the enemy's dispositions is the primary weapon",
+      "verses": [
+        {
+          "number": 1,
+          "text": "Raising a host of a hundred thousand men and marching them great distances entails heavy loss..."
+        },
+        {
+          "number": 3,
+          "text": "What enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is foreknowledge."
+        },
+        {
+          "number": 4,
+          "text": "Now this foreknowledge cannot be elicited from spirits; it cannot be obtained inductively from experience, nor by any deductive calculation."
+        },
+        {
+          "number": 5,
+          "text": "Knowledge of the enemy's dispositions can only be obtained from other men."
+        }
+      ]
+    }
+  ]
+}
