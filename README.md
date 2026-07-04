@@ -1,4 +1,5 @@
 # classical-strategy-mcp
+<!-- mcp-name: io.github.gabrielmahia/decision-intelligence-mcp -->
 
 **5,000 years of military strategy, philosophy, and decision science — as AI-accessible tools.**
 
