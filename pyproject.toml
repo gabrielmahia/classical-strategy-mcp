@@ -26,6 +26,10 @@ dependencies = ["fastmcp>=2.0.0"]
 Homepage = "https://github.com/gabrielmahia/decision-intelligence-mcp"
 Repository = "https://github.com/gabrielmahia/decision-intelligence-mcp"
 "MCP Servers" = "https://glama.ai/mcp/servers?query=author:gabrielmahia"
+Documentation = "https://github.com/gabrielmahia/nairobi-stack"
+"MCP Registry" = "https://registry.modelcontextprotocol.io"
+Datasets = "https://huggingface.co/gmahia"
+Evaluation = "https://github.com/gabrielmahia/kipimo"
 
 [project.scripts]
 decision-intelligence-mcp = "classical_strategy_mcp.main:main"
